@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="formulario">Formulario</string>
+    <string name="nombre">Nombre:</string>
+    <string name="digname">Digite su nombre</string>
+    <string name="password">Contraseña:</string>
+    <string name="digpassword">Digite contraseña</string>
+    <string name="rpassword">Repetir contraseña:</string>
+    <string name="digrpassword">Repita contraseña</string>
+    <string name="apellido">Apellidos:</string>
+    <string name="diglastname">Digite sus apellidos</string>
+    <string name="correo">e-mail:</string>
+    <string name="digcorreo">Digite su correo electrónico</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="sexo">Sexo:</string>
+    <string name="deporte">Deporte</string>
+    <string name="cine">Cine</string>
+    <string name="comer">Comer</string>
+    <string name="dormir">Dormir</string>
+    <string name="hobbies">Hobbies:</string>
+    <string name="futbol">Fútbol</string>
+    <string name="fecha">Fecha de nacimiento:</string>
+    <string name="ingfecha">Ingrese fecha</string>
+    <string name="guardar">Guardar</string>
+    <string name="lugar">Lugar de nacimiento:</string>
+    <string name="inglugar">Lugar de nacimiento</string>
+    <string name="ciudad">Ciudad</string>
+    <string-array name="ciudades">
+        <item>Medellín</item>
+        <item>Bogotá</item>
+        <item>Cartagena</item>
+        <item>Barranquilla</item>
+        <item>Pasto</item>
+    </string-array>
+</resources>
